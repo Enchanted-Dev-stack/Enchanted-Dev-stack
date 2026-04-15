@@ -1,5 +1,16 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# 💫 About Me:
+🚀 Full-Stack Developer who turns ideas into real, scalable products  
+💻 I build everything — from sleek websites to powerful mobile apps & backend systems  
+📱 Passionate about crafting seamless user experiences across web, mobile & desktop  
+
+🔭 Currently building & experimenting with modern full-stack architectures  
+🤝 Open to collaborating on startups, SaaS, and innovative tech projects  
+🌱 Always learning — exploring new frameworks, cloud tech & performance optimization  
+💬 Ask me about Web Dev, Mobile Apps, APIs, DevOps & scaling projects  
+⚡ Fun fact: If it runs on a screen, I can probably build it 😄  
+
+🔥 I don’t just write code — I build complete digital experiences.
 
 
 ## 🌐 Socials:

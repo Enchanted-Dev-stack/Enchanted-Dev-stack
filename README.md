@@ -1,5 +1,4 @@
 # 💫 About Me:
-# 💫 About Me:
 🚀 Full-Stack Developer who turns ideas into real, scalable products  
 💻 I build everything — from sleek websites to powerful mobile apps & backend systems  
 📱 Passionate about crafting seamless user experiences across web, mobile & desktop  
